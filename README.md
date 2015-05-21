@@ -23,3 +23,6 @@ Any problems? Hatred? Let me know coolstreambro@kraln.com
 ## Todo
  * Support A/V Crossbars (Capture Cards with Audio Intermux'd)
  * Support rebroadcasting
+
+## Acknowledgements
+This is based on a lot of work that Brian Low did in 2003 and released into the public domain. I cleaned up a lot of it, and modernized it, but at its core it's still very strongly influenced by Brian and the DirectX SDK examples. Hopefully the MPL2 license keeps this very useful code open.
